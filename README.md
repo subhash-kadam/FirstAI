@@ -1,0 +1,2 @@
+# FirstAI
+let's focus 
